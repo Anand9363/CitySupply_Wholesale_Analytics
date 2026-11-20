@@ -1,0 +1,91 @@
+supplier_id,supplier_name,supplier_tier,product_category,month_year,total_shipments,otif_count,otif_rate,avg_lead_time_days,avg_variance_days,defect_count,defect_rate
+S001,Reliance Retail Suppliers,T1,Electronics,Apr-2025,42,36,85.7,2.1,0.4,2,4.8
+S001,Reliance Retail Suppliers,T1,Electronics,May-2025,45,40,88.9,2.0,0.3,1,2.2
+S001,Reliance Retail Suppliers,T1,Electronics,Jun-2025,38,32,84.2,2.2,0.5,3,7.9
+S001,Reliance Retail Suppliers,T1,Electronics,Jul-2025,50,46,92.0,1.9,0.2,1,2.0
+S001,Reliance Retail Suppliers,T1,Electronics,Aug-2025,48,42,87.5,2.1,0.4,2,4.2
+S001,Reliance Retail Suppliers,T1,Electronics,Sep-2025,52,47,90.4,2.0,0.3,2,3.8
+S001,Reliance Retail Suppliers,T1,Electronics,Oct-2025,44,38,86.4,2.2,0.5,3,6.8
+S001,Reliance Retail Suppliers,T1,Electronics,Nov-2025,47,43,91.5,1.9,0.2,1,2.1
+S001,Reliance Retail Suppliers,T1,Electronics,Dec-2025,55,49,89.1,2.1,0.4,2,3.6
+S001,Reliance Retail Suppliers,T1,Electronics,Jan-2026,41,35,85.4,2.3,0.6,3,7.3
+S001,Reliance Retail Suppliers,T1,Electronics,Feb-2026,39,34,87.2,2.2,0.5,2,5.1
+S001,Reliance Retail Suppliers,T1,Electronics,Mar-2026,46,42,91.3,2.0,0.3,1,2.2
+S001,Reliance Retail Suppliers,T1,Electronics,Apr-2026,43,37,86.0,2.2,0.5,2,4.7
+S001,Reliance Retail Suppliers,T1,Electronics,May-2026,49,45,91.8,1.9,0.2,1,2.0
+S001,Reliance Retail Suppliers,T1,Electronics,Jun-2026,51,45,88.2,2.1,0.4,2,3.9
+S001,Reliance Retail Suppliers,T1,Electronics,Jul-2026,47,43,91.5,2.0,0.3,1,2.1
+S001,Reliance Retail Suppliers,T1,Electronics,Aug-2026,53,47,88.7,2.1,0.4,2,3.8
+S001,Reliance Retail Suppliers,T1,Electronics,Sep-2026,50,46,92.0,1.9,0.2,1,2.0
+S002,TataTrade Logistics,T1,Apparel,Apr-2025,60,48,80.0,1.5,0.6,4,6.7
+S002,TataTrade Logistics,T1,Apparel,May-2025,65,56,86.2,1.4,0.4,3,4.6
+S002,TataTrade Logistics,T1,Apparel,Jun-2025,58,47,81.0,1.6,0.7,5,8.6
+S002,TataTrade Logistics,T1,Apparel,Jul-2025,70,61,87.1,1.3,0.3,3,4.3
+S002,TataTrade Logistics,T1,Apparel,Aug-2025,68,59,86.8,1.4,0.4,3,4.4
+S002,TataTrade Logistics,T1,Apparel,Sep-2025,72,63,87.5,1.4,0.3,2,2.8
+S002,TataTrade Logistics,T1,Apparel,Oct-2025,62,51,82.3,1.6,0.6,4,6.5
+S002,TataTrade Logistics,T1,Apparel,Nov-2025,66,58,87.9,1.4,0.3,2,3.0
+S002,TataTrade Logistics,T1,Apparel,Dec-2025,78,67,85.9,1.5,0.5,4,5.1
+S002,TataTrade Logistics,T1,Apparel,Jan-2026,55,43,78.2,1.7,0.8,5,9.1
+S002,TataTrade Logistics,T1,Apparel,Feb-2026,52,44,84.6,1.5,0.5,3,5.8
+S002,TataTrade Logistics,T1,Apparel,Mar-2026,64,57,89.1,1.3,0.3,2,3.1
+S002,TataTrade Logistics,T1,Apparel,Apr-2026,61,51,83.6,1.5,0.5,3,4.9
+S002,TataTrade Logistics,T1,Apparel,May-2026,67,59,88.1,1.3,0.3,2,3.0
+S002,TataTrade Logistics,T1,Apparel,Jun-2026,69,60,87.0,1.4,0.4,3,4.3
+S002,TataTrade Logistics,T1,Apparel,Jul-2026,71,63,88.7,1.4,0.3,2,2.8
+S002,TataTrade Logistics,T1,Apparel,Aug-2026,73,65,89.0,1.3,0.3,2,2.7
+S002,TataTrade Logistics,T1,Apparel,Sep-2026,70,63,90.0,1.3,0.2,1,1.4
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Apr-2025,30,22,73.3,3.1,1.2,3,10.0
+S003,Mahindra Supply Chain,T2,Home & Kitchen,May-2025,33,25,75.8,3.0,1.0,3,9.1
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Jun-2025,28,19,67.9,3.4,1.5,4,14.3
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Jul-2025,35,27,77.1,2.9,0.9,2,5.7
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Aug-2025,32,25,78.1,3.0,0.9,2,6.3
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Sep-2025,37,29,78.4,2.9,0.8,2,5.4
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Oct-2025,31,23,74.2,3.1,1.1,3,9.7
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Nov-2025,34,27,79.4,2.9,0.8,2,5.9
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Dec-2025,40,30,75.0,3.1,1.1,3,7.5
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Jan-2026,27,19,70.4,3.3,1.3,4,14.8
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Feb-2026,25,18,72.0,3.2,1.2,3,12.0
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Mar-2026,32,26,81.3,2.8,0.8,2,6.3
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Apr-2026,30,23,76.7,3.0,1.0,3,10.0
+S003,Mahindra Supply Chain,T2,Home & Kitchen,May-2026,34,28,82.4,2.8,0.7,2,5.9
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Jun-2026,36,29,80.6,2.9,0.8,2,5.6
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Jul-2026,35,28,80.0,2.9,0.9,2,5.7
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Aug-2026,38,31,81.6,2.8,0.8,2,5.3
+S003,Mahindra Supply Chain,T2,Home & Kitchen,Sep-2026,36,30,83.3,2.8,0.7,2,5.6
+S004,Flipkart Vendor Network,T1,FMCG,Apr-2025,80,68,85.0,1.0,0.3,3,3.8
+S004,Flipkart Vendor Network,T1,FMCG,May-2025,85,74,87.1,1.0,0.2,2,2.4
+S004,Flipkart Vendor Network,T1,FMCG,Jun-2025,78,65,83.3,1.1,0.4,4,5.1
+S004,Flipkart Vendor Network,T1,FMCG,Jul-2025,90,80,88.9,0.9,0.2,2,2.2
+S004,Flipkart Vendor Network,T1,FMCG,Aug-2025,88,78,88.6,1.0,0.2,2,2.3
+S004,Flipkart Vendor Network,T1,FMCG,Sep-2025,92,83,90.2,0.9,0.1,1,1.1
+S004,Flipkart Vendor Network,T1,FMCG,Oct-2025,82,70,85.4,1.0,0.3,3,3.7
+S004,Flipkart Vendor Network,T1,FMCG,Nov-2025,87,78,89.7,0.9,0.2,2,2.3
+S004,Flipkart Vendor Network,T1,FMCG,Dec-2025,100,88,88.0,1.0,0.2,2,2.0
+S004,Flipkart Vendor Network,T1,FMCG,Jan-2026,75,62,82.7,1.1,0.4,4,5.3
+S004,Flipkart Vendor Network,T1,FMCG,Feb-2026,72,63,87.5,1.0,0.3,3,4.2
+S004,Flipkart Vendor Network,T1,FMCG,Mar-2026,84,76,90.5,0.9,0.2,1,1.2
+S004,Flipkart Vendor Network,T1,FMCG,Apr-2026,81,70,86.4,1.0,0.3,2,2.5
+S004,Flipkart Vendor Network,T1,FMCG,May-2026,86,78,90.7,0.9,0.1,1,1.2
+S004,Flipkart Vendor Network,T1,FMCG,Jun-2026,89,80,89.9,0.9,0.2,2,2.2
+S004,Flipkart Vendor Network,T1,FMCG,Jul-2026,91,83,91.2,0.9,0.1,1,1.1
+S004,Flipkart Vendor Network,T1,FMCG,Aug-2026,93,85,91.4,0.9,0.1,1,1.1
+S004,Flipkart Vendor Network,T1,FMCG,Sep-2026,95,88,92.6,0.8,0.1,1,1.1
+S005,Godrej Consumer Products,T2,Personal Care,Apr-2025,25,19,76.0,2.5,0.8,2,8.0
+S005,Godrej Consumer Products,T2,Personal Care,May-2025,27,21,77.8,2.4,0.7,2,7.4
+S005,Godrej Consumer Products,T2,Personal Care,Jun-2025,23,16,69.6,2.7,1.0,3,13.0
+S005,Godrej Consumer Products,T2,Personal Care,Jul-2025,30,24,80.0,2.3,0.6,2,6.7
+S005,Godrej Consumer Products,T2,Personal Care,Aug-2025,28,22,78.6,2.4,0.7,2,7.1
+S005,Godrej Consumer Products,T2,Personal Care,Sep-2025,32,26,81.3,2.3,0.5,1,3.1
+S005,Godrej Consumer Products,T2,Personal Care,Oct-2025,26,20,76.9,2.5,0.8,2,7.7
+S005,Godrej Consumer Products,T2,Personal Care,Nov-2025,29,23,79.3,2.4,0.6,2,6.9
+S005,Godrej Consumer Products,T2,Personal Care,Dec-2025,35,27,77.1,2.5,0.8,2,5.7
+S005,Godrej Consumer Products,T2,Personal Care,Jan-2026,22,16,72.7,2.6,0.9,3,13.6
+S005,Godrej Consumer Products,T2,Personal Care,Feb-2026,21,16,76.2,2.5,0.8,2,9.5
+S005,Godrej Consumer Products,T2,Personal Care,Mar-2026,27,22,81.5,2.3,0.5,1,3.7
+S005,Godrej Consumer Products,T2,Personal Care,Apr-2026,25,19,76.0,2.5,0.8,2,8.0
+S005,Godrej Consumer Products,T2,Personal Care,May-2026,28,23,82.1,2.3,0.5,1,3.6
+S005,Godrej Consumer Products,T2,Personal Care,Jun-2026,30,25,83.3,2.3,0.5,1,3.3
+S005,Godrej Consumer Products,T2,Personal Care,Jul-2026,29,24,82.8,2.3,0.5,1,3.4
+S005,Godrej Consumer Products,T2,Personal Care,Aug-2026,31,26,83.9,2.2,0.5,1,3.2
+S005,Godrej Consumer Products,T2,Personal Care,Sep-2026,30,25,83.3,2.3,0.5,1,3.3
